@@ -71,7 +71,7 @@ export default function Resume() {
         className="flex justify-center relative z-10"
       >
         <a 
-  href="/Siddharth_Thakur_Resume.pdf" 
+  href="Siddharth_Thakur_Resume.pdf" 
   target="_blank" 
   rel="noopener noreferrer"
   className="relative group px-12 py-4 rounded-full bg-[#FFBF00] text-black font-bold overflow-hidden transition-all hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(255,191,0,0.3)]"
