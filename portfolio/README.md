@@ -22,30 +22,30 @@ A cinematic, high-performance portfolio showcasing the intersection of enterpris
 
 - **Cinematic Visuals:** A custom-coded night sky background with twinkling stars and random falling comets, optimized for 60FPS performance.
 - **Buttery Smooth Motion:** Integrated Lenis scroll engine for a premium, agency-level browsing experience.
-- [cite_start]**Enterprise-Grade Content:** Detailed case studies on digitizing B2B workflows, including a **5S Smart Audit App** that reduced audit time by 50%[cite: 12, 30].
-- [cite_start]**Zero-Handoff Philosophy:** Demonstrating the ability to bridge the gap between Figma high-fidelity prototypes and production-ready React code[cite: 7, 20].
+- **Enterprise-Grade Content:** Detailed case studies on digitizing B2B workflows, including a **5S Smart Audit App** that reduced audit time by 50%[cite: 12, 30].
+- **Zero-Handoff Philosophy:** Demonstrating the ability to bridge the gap between Figma high-fidelity prototypes and production-ready React code[cite: 7, 20].
 
 ---
 
 ## 📂 Project Highlights
 
 ### 1. 5S Smart Audit Mobile App
-Digitized a fully paper-based audit process for industrial shop floors. [cite_start]Replaced manual logs with a digital, dropdown-driven interface[cite: 11, 12].
-- [cite_start]**Impact:** Cut audit completion time by 50%+ and eliminated transcription errors[cite: 12, 30].
+Digitized a fully paper-based audit process for industrial shop floors. Replaced manual logs with a digital, dropdown-driven interface[cite: 11, 12].
+- **Impact:** Cut audit completion time by 50%+ and eliminated transcription errors[cite: 12, 30].
 
 ### 2. HP Setu Intranet Portal
-[cite_start]Redesigned a legacy intranet into a centralized hub for 200–700 employees, focusing on information architecture and employee engagement[cite: 10, 14, 15].
+Redesigned a legacy intranet into a centralized hub for 200–700 employees, focusing on information architecture and employee engagement[cite: 10, 14, 15].
 
 ### 3. Sangathan – CSR Portal
-[cite_start]A user-centric platform designed to improve accessibility and information discoverability for internal CSR initiatives[cite: 34, 35].
+A user-centric platform designed to improve accessibility and information discoverability for internal CSR initiatives[cite: 34, 35].
 
 ---
 
 ## 👨‍💻 Professional Background
 
-- [cite_start]**Current Role:** UI/UX Developer at **Hindustan Platinum**[cite: 9].
-- [cite_start]**Education:** B.E. in Computer Science (8.8 SGPA) from **DYPIEMR, Pune**[cite: 42, 43].
-- [cite_start]**Certifications:** Google UX Design Professional Certificate, React - The Complete Guide[cite: 45, 46].
+- **Current Role:** UI/UX Developer at **Hindustan Platinum**[cite: 9].
+- **Education:** B.E. in Computer Science (8.8 SGPA) from **DYPIEMR, Pune**[cite: 42, 43].
+- **Certifications:** Google UX Design Professional Certificate, React - The Complete Guide[cite: 45, 46].
 
 ---
 
