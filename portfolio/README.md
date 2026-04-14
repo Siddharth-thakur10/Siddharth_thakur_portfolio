@@ -1,73 +1,70 @@
-# React + TypeScript + Vite
+# Siddharth Thakur | UI/UX Designer & Frontend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic, high-performance portfolio showcasing the intersection of enterprise product design and modern frontend engineering. This project highlights my work delivered for manufacturing environments and my transition into Product Management.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[View Live Portfolio](https://Siddharth-thakur10.github.io/Siddharth_thakur_portfolio/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework:** React 19 (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Smooth Scroll:** Lenis (Vanilla Core)
+- **Background:** Custom HTML5 Canvas (Starfield & Falling Comets)
+- **Icons:** Lucide React & Simple Icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🌟 Key Features
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **Cinematic Visuals:** A custom-coded night sky background with twinkling stars and random falling comets, optimized for 60FPS performance.
+- **Buttery Smooth Motion:** Integrated Lenis scroll engine for a premium, agency-level browsing experience.
+- [cite_start]**Enterprise-Grade Content:** Detailed case studies on digitizing B2B workflows, including a **5S Smart Audit App** that reduced audit time by 50%[cite: 12, 30].
+- [cite_start]**Zero-Handoff Philosophy:** Demonstrating the ability to bridge the gap between Figma high-fidelity prototypes and production-ready React code[cite: 7, 20].
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+---
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 📂 Project Highlights
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 1. 5S Smart Audit Mobile App
+Digitized a fully paper-based audit process for industrial shop floors. [cite_start]Replaced manual logs with a digital, dropdown-driven interface[cite: 11, 12].
+- [cite_start]**Impact:** Cut audit completion time by 50%+ and eliminated transcription errors[cite: 12, 30].
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### 2. HP Setu Intranet Portal
+[cite_start]Redesigned a legacy intranet into a centralized hub for 200–700 employees, focusing on information architecture and employee engagement[cite: 10, 14, 15].
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 3. Sangathan – CSR Portal
+[cite_start]A user-centric platform designed to improve accessibility and information discoverability for internal CSR initiatives[cite: 34, 35].
+
+---
+
+## 👨‍💻 Professional Background
+
+- [cite_start]**Current Role:** UI/UX Developer at **Hindustan Platinum**[cite: 9].
+- [cite_start]**Education:** B.E. in Computer Science (8.8 SGPA) from **DYPIEMR, Pune**[cite: 42, 43].
+- [cite_start]**Certifications:** Google UX Design Professional Certificate, React - The Complete Guide[cite: 45, 46].
+
+---
+
+## 🔧 Local Development
+
+To run this project locally:
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/Siddharth-thakur10/Siddharth_thakur_portfolio.git](https://github.com/Siddharth-thakur10/Siddharth_thakur_portfolio.git)
+   
+2. Install dependencies:
+
+npm install
+
+3. Run development server:
+
+npm run dev
+
+4. Build for production:
+
+npm run build
